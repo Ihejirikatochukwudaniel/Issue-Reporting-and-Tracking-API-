@@ -20,6 +20,12 @@ A RESTful API for managing and tracking issues built with FastAPI and SQLAlchemy
 
 
 
+
+
+
+
+
+
 <img width="1351" height="688" alt="swagger tracker 2" src="https://github.com/user-attachments/assets/40dcad1c-76de-44ec-b5e5-d03acc17fe30" />
 
 
@@ -352,3 +358,4 @@ MIT License - Feel free to use this project for learning and development.
 
 
 For questions or issues, please open an issue on GitHub or contact the maintainer.
+
