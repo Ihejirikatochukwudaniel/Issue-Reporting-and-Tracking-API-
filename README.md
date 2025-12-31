@@ -12,6 +12,18 @@ A RESTful API for managing and tracking issues built with FastAPI and SQLAlchemy
 - ✅ Input validation with Pydantic
 - ✅ SQLite database (easy setup, no external dependencies)
 
+
+
+
+<img width="1350" height="684" alt="swagger tracker 1" src="https://github.com/user-attachments/assets/9e88f723-26ee-4ab2-ac96-289f00801936" />
+
+
+
+
+<img width="1351" height="688" alt="swagger tracker 2" src="https://github.com/user-attachments/assets/40dcad1c-76de-44ec-b5e5-d03acc17fe30" />
+
+
+
 ## Quick Start
 
 ### Prerequisites
@@ -337,5 +349,6 @@ def test_create_issue():
 MIT License - Feel free to use this project for learning and development.
 
 ## Support
+
 
 For questions or issues, please open an issue on GitHub or contact the maintainer.
